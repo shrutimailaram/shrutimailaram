@@ -36,13 +36,16 @@ Currently exploring **Cloud**, **DevOps**, **Java**, and sharpening my **DSA** s
 - 🤝 Always open to learning and collaborating
 
 ---
+
 ### 📊 GitHub Stats (Tracking My Growth)
 
-![Shruti's GitHub Stats]((https://github-readme-stats.vercel.app/api?username=shruti-mailaram&show_icons=true&theme=radical))
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti-mailaram&show_icons=true&theme=radical)
 
 🚧 More contributions and projects coming soon!
 
+---
+
 ### 📬 Let's Connect
 
-- ✉️ Email: shrutimailaram412@gmail.com 
-- 🌐 [LinkedIn]: (https://www.linkedin.com/in/shruti-mailaram-abcd01/))
+- ✉️ Email: shrutimailaram412@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shruti-mailaram-abcd01/)
