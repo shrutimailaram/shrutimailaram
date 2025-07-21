@@ -39,7 +39,10 @@ Currently exploring **Cloud**, **DevOps**, **Java**, and sharpening my **DSA** s
 
 ### 📊 GitHub Stats (Tracking My Growth)
 
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruti-mailaram&show_icons=true&theme=radical)
+![Shruti's GitHub Stats](### 📊 GitHub Stats (Tracking My Growth)
+
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutimailaram&show_icons=true&theme=radical)
+l)
 
 🚧 More contributions and projects coming soon!
 
