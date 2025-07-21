@@ -39,22 +39,25 @@ Currently exploring **Cloud**, **DevOps**, **Java**, and sharpening my **DSA** s
 
 ### 📊 GitHub Stats (Tracking My Growth)
 
-![Shruti's GitHub Stats](### 📊 GitHub Stats (Tracking My Growth)
-
 ![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutimailaram&show_icons=true&theme=radical)
-l)
-
-🚧 More contributions and projects coming soon!
 
 ---
+
 ### 📚 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimailaram&layout=compact&theme=radical)
 
+---
+
+### 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=shrutimailaram&theme=radical&hide_border=true)
 
+---
 
 ### 📬 Let's Connect
 
 - ✉️ Email: shrutimailaram412@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shruti-mailaram-abcd01/)
+
+🚧 More contributions and projects coming soon!
