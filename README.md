@@ -47,6 +47,12 @@ l)
 🚧 More contributions and projects coming soon!
 
 ---
+### 📚 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimailaram&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shrutimailaram&theme=radical&hide_border=true)
+
 
 ### 📬 Let's Connect
 
